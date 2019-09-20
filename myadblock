@@ -1,4 +1,4 @@
-#cibn-vst
+
 bkmcgi.play.cp81.ott.cibntv.net
 bksdkconfig.play.cp81.ott.cibntv.net
 brance.play.cp81.ott.cibntv.net
@@ -8,7 +8,6 @@ mcgi.play.cp81.ott.cibntv.net
 p-l.play.cp81.ott.cibntv.net
 sdkconfig.play.cp81.ott.cibntv.net
 t-l.play.cp81.ott.cibntv.net
-#tv.qq.com
 aiseet.aa.atianqi.com
 dp3.play.aiseet.atianqi.com
 livep.l.aiseet.atianqi.com
@@ -19,7 +18,6 @@ sdkconfig.play.aiseet.atianqi.com
 livew.l.qq.com
 c.l.qq.com
 mdevstat.qqlive.qq.com
-#iqiyi
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
 c.uaa.iqiyi.com
@@ -37,13 +35,11 @@ static.g.iqiyi.com
 store.iqiyi.com
 t7z.cupid.iqiyi.com
 nl.rcd.iqiyi.com
-#iqiyi-gitv
 api.cupid.ptqy.gitv.tv
 msg.video.ptqy.gitv.tv
 msg2.video.ptqy.gitv.tv
 nl.rcd.ptqy.gitv.tv
 msg.c002.ottcn.com
-#iqiyi-paopao
 emoticon.sns.iqiyi.com
 hotchat-im.iqiyi.com
 paopao.iqiyi.com
@@ -52,7 +48,6 @@ paopao0.qiyipic.com
 paopao1.qiyipic.com
 paopao2.qiyipic.com
 paopao3.qiyipic.com
-#iqiyi-pps
 count.game.pps.tv
 game.pps.tv
 static.g.ppstream.com
@@ -60,18 +55,15 @@ qosp.msg.71.am
 msga.71.am
 androidgo.duapp.com
 noxagile.duapp.com
-#iqiyi-qiyi
 api.cupid.qiyi.com
 msg.video.qiyi.com
 msg2.video.qiyi.com
-#letv
 api.game.letvstore.com
 dev.dc.letv.com
 msg.m.letv.com
 n.mark.letv.com
 static.app.m.letv.com
 test.ark.letv.com
-#sohu-video
 agn.aty.sohu.com
 f.aty.sohu.com
 m.aty.sohu.com
@@ -86,7 +78,6 @@ api.danmu.tv.sohu.com
 download.wan.sohu.com
 da.mmarket.com
 sohu.irs01.com
-#youku
 ad.api.3g.tudou.com
 stats.tudou.com
 p-log.ykimg.com
@@ -139,26 +130,17 @@ p-cn.acxiom-online.com
 hp.smiler-ad.com
 static8.pmadx.com
 www.bfshan.cn
-
-#xiaomi
-
 api.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
 ad.mi.com
 ad.xiaomi.com
 ad1.xiaomi.com
-
 adv.sec.miui.com
 test.ad.xiaomi.com
 new.api.ad.xiaomi.com
-
 cdn.ad.xiaomi.com
 e.ad.xiaomi.com
 test.new.api.ad.xiaomi.com
-
 ssp.ad.xiaomi.com
 o2o.api.xiaomi.com
-
-# tcpdump
-
 api.cupid.ptqy.gitv.tv
